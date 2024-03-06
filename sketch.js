@@ -1,3 +1,6 @@
+// Thinking about turning this into a react project
+
+
 let timeleft = 10;
 let startTime = 0;
 let currentTime = 0;
