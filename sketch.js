@@ -1,4 +1,4 @@
-// Thinking about turning this into a react project
+
 
 
 let timeleft = 10;
